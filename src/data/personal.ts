@@ -13,5 +13,5 @@ export const personal = {
     twitter: 'https://twitter.com',
     whatsapp: 'https://wa.me/6282245916236',
   },
-  resume: '/resume.pdf',
+  resume: 'https://drive.google.com/file/d/1R6JSifymQ3N8R-Bgp8QIimj1SQWUyPDV/view?usp=sharing',
 }
